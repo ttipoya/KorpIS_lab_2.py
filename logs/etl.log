@@ -1,0 +1,10 @@
+2025-11-27 13:24:10,269 INFO Processing data\input\players_sample.csv
+2025-11-27 13:26:07,455 INFO Processing data\input\players_sample.csv
+2025-11-27 13:26:59,523 INFO Processing data\input\players_sample.csv
+2025-11-27 13:26:59,602 INFO Result: {'processed': 1, 'created': 2, 'errors': 1}
+2025-11-27 13:28:01,661 INFO No input files found
+2025-11-27 13:28:01,661 INFO Result: {'processed': 0, 'created': 0, 'errors': 0}
+2025-11-27 13:35:55,007 INFO No input files found
+2025-11-27 13:35:55,007 INFO Result: {'processed': 0, 'created': 0, 'errors': 0}
+2025-11-27 13:36:49,139 INFO Processing data\input\players_sample.csv
+2025-11-27 13:36:49,227 INFO Result: {'processed': 1, 'created': 1, 'errors': 2}

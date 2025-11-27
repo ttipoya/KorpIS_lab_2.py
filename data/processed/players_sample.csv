@@ -1,0 +1,4 @@
+first_name,last_name,email,date_of_birth,phone,rating
+Пётр,Соколов,olen.sokolov@example.com,1990-05-15,+79161234567,1600
+Мария,Крылова,d.krylova@example.com,1988-02-10,not-a-phone,1500
+Bad,Data,bad-email,15/35/1990,+79162223344,-10

@@ -1,0 +1,16 @@
+[
+  {"first_name":"Мария",
+    "last_name":"Крылова",
+    "email":"d.krylova@example.com",
+    "date_of_birth":"1988-02-10",
+    "phone_number":"not-a-phone",
+    "rating":1500,
+    "_errors":"invalid phone"},
+  {"first_name":"Bad",
+    "last_name":"Data",
+    "email":"bad-email",
+    "date_of_birth":"15\/35\/1990",
+    "phone_number":"+79162223344",
+    "rating":-10,
+    "_errors":"invalid email; invalid date_of_birth; rating must be non-negative"}
+]
